@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 17px;
+  line-height: 1.45;
+  color: #222;
+  background: #f6f4ef;
+}
+
+header {
+  background-color: steelblue;
+  color: white;
+  padding: 1rem 1.5rem;
+}
+
+header h1 {
+  margin: 0;
+}
+
+body > p,
+body > button,
+footer {
+  margin-left: 1.5rem;
+}
+
+body > p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  padding: 0.4rem 0.8rem;
+}
+
+footer {
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
